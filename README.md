@@ -1,12 +1,13 @@
-<h1 align="center">hey there 👋</h1>
+<h1 align="center">Hey there 👋</h1>
 
-###
+<h3 align="left">👩‍💻 About Me</h3>
 
-<h3 align="left">👩‍💻  About Me</h3>
+<p align="left">
+  I'm <strong>Mostafa Al Akel</strong> from Syria.<br><br>
+  - 🔭 I’m working as a <strong>Back-End Developer</strong><br>
+  - 📚 I'm a student at <strong>Syrian Virtual University</strong>, studying <strong>Information Technology Engineering (ITE)</strong>
+</p>
 
-###
-
-<p align="left">I'm mostafa al akel  from syria<br><br>- 🔭 I’m working as  back-end developer<br>- 📚 I'm student at syrian virtual  university/ITE</p>
 
 ###
 
